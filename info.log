@@ -1,0 +1,42 @@
+2022-01-10 17:08:15,307 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x10b7b8280>>: 'RootLogger' object has no attribute 'errror'
+2022-01-10 17:08:15,307 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x10b7b8280>>: 'RootLogger' object has no attribute 'errror'
+2022-01-10 17:08:15,308 WARNING :: Binance Websocket connection closed
+2022-01-10 17:08:15,308 WARNING :: Binance Websocket connection closed
+2022-01-10 17:08:15,308 INFO :: Binance Futures Client successfully initialized
+2022-01-17 19:10:29,762 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-01-17 19:10:29,765 INFO :: Binance Futures Client successfully initialized
+2022-01-17 19:10:30,006 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:30,006 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:30,045 ERROR :: Error while making GET request to /api/v1/instrument/active: {'error': {'message': 'Invalid API Key.', 'name': 'HTTPError'}} (error code 401)
+2022-01-17 19:10:30,810 ERROR :: Error while making GET request to /api/v1/user/margin: {'error': {'message': 'Invalid API Key.', 'name': 'HTTPError'}} (error code 401)
+2022-01-17 19:10:30,811 INFO :: Bitmex Client successfully initialized
+2022-01-17 19:10:31,290 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:31,290 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:32,248 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:32,249 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:33,338 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:33,339 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:34,492 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:34,492 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:35,377 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:35,378 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:36,729 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:36,729 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:37,427 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:37,428 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:38,974 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:38,975 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:39,485 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:39,485 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:41,233 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:41,234 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:41,536 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:41,536 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:43,462 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:43,463 WARNING :: Binance Websocket connection closed
+2022-01-17 19:10:43,579 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:43,580 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:45,619 ERROR :: Bitmex connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:45,619 WARNING :: Bitmex Websocket connection closed
+2022-01-17 19:10:45,709 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+2022-01-17 19:10:45,709 WARNING :: Binance Websocket connection closed
